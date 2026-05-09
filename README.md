@@ -1,4 +1,4 @@
-#  Customer Churn Analysis
+# Customer Churn Analysis
 ## Project Overview
 This project focuses on analyzing customer churn behavior in a company using SQL and Python. The goal of this project is to
 identify the major factors contributing to customer churn and provide meaningful business insights and recommendations to
