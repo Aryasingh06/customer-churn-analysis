@@ -78,8 +78,6 @@ New features were created to improve analysis:
 - Review pricing strategies for high-charge customers.
 - Develop targeted retention campaigns for high-risk customers.
 
----
-
 ## Project Screenshots
 
 ###  Churn Distribution
@@ -105,8 +103,5 @@ Future enhancements for this project:
 - Power BI interactive dashboard
 - Streamlit web application deployment
 
----
-
 ## Conclusion
-
 This project helped in understanding customer churn patterns using SQL and Python-based data analysis techniques. The analysis provides useful business insights that can help telecom companies improve customer retention and reduce churn.
