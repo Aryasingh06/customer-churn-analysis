@@ -12,7 +12,6 @@ The project combines business analysis with predictive modeling to generate acti
 - Provide business recommendations based on data-driven insights.
 
 ##  Dataset
-
 IBM Telco Customer Churn Dataset
 The dataset contains information about:
 - Customer demographics
@@ -106,22 +105,22 @@ The model achieved strong performance in identifying customer churn behavior and
 
 ##  Project Visualizations
 ### Churn Distribution
-![Churn Distribution](screenshots/churn_distribution.png)
+![churn distribution](screenshots/churn_distribution.png)
 
 ### Contract Type vs Churn
-![Contract Type vs Churn](screenshots/contract_type_vs_churn.png)
+![contract Type vs Churn](screenshots/contract_type_vs_churn.png)
 
 ### Monthly Charges vs Churn
-![Monthly Charges vs Churn](screenshots/monthlycharges_vs_churn.png)
+![monthly charges vs churn](screenshots/monthlycharges_vs_churn.png)
 
 ### Customer Type vs Churn
-![Customer Type vs Churn](screenshots/customer_type_vs_churn.png)
+![customer type vs churn](screenshots/customer_type_vs_churn.png)
 
 ### Correlation Heatmap
-![Correlation Heatmap](screenshots/correlation_heatmap.png)
+![correlation heatmap](screenshots/correlation_heatmap.png)
 
 ### Confusion Matrix
-![Confusion Matrix](screenshots/confusion_matrix.png)
+![confusion matrix](screenshots/confusion_matrix.png)
 
 ##  Future Improvements
 - Random Forest Classifier
